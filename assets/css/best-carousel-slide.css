@@ -60,3 +60,9 @@ span {
   font-weight: inherit;
 }
 
+.heading {
+  background-color: var(--bs-info);
+  padding: 5px;
+  padding-left: 20px;
+}
+
